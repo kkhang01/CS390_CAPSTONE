@@ -14,3 +14,4 @@ some main commands to play with or to edit our model are:
 
  python train.py --img 600 --epochs 100 --data data.yaml --weights best.pt - lets you train/improve the model with your own custom dataset. set image number and epoch according to your own dataset parameters.
 
+The web application for this project was built using a React template and components from https://mantine.dev/ The react-flask-app folder has its own readme with instructions on how to run the app. There is not a working backend connected to the application yet.  
